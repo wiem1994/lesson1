@@ -1,4 +1,4 @@
-<?php function getArticles($nombre_article){
+<?php function getArticles($nombre_article=5){
 
 $articles = [
 
